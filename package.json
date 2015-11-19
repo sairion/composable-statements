@@ -1,0 +1,26 @@
+{
+  "name": "composable-statements",
+  "version": "0.0.1",
+  "description": "Composable Statements for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Jaeho Lee <me@jaeholee.org>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sairion/composable-statements.git"
+  },
+  "keywords": [
+    "helper",
+    "ES2015",
+    "ES6",
+    "JSX",
+    "react"
+  ],
+  "bugs": {
+    "url": "https://github.com/sairion/composable-statements/issues"
+  },
+  "homepage": "https://github.com/sairion/composable-statements"
+}
